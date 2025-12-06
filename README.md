@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Ahmed Helmy  
-### Backend Developer | .NET | SQL Server | Clean Architecture
+### Software Engineer | Backend
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" />
 
@@ -11,8 +11,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=AhmedHelmy&style=flat&color=blue)]()
 [![GitHub Followers](https://img.shields.io/github/followers/AhmedHelmy?style=flat&color=blue)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/usernameHere)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ziady-999a81261/)
 
 </div>
 
@@ -20,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 - 🔭 I specialize in **Backend Development using .NET & C#**  
-- 🛠️ I build **APIs, SQL Server databases, distributed systems & microservices**  
+- 🛠️ I build **APIs, SQL Server databases**  
 - 📡 Experienced with **gRPC, Entity Framework, IIS hosting, authentication & caching**  
 - 🌱 Currently improving in **clean architecture, event-driven systems, and advanced SQL**  
 - 🎯 My goal: **Join a strong backend team & build enterprise-level systems**
@@ -47,7 +46,6 @@
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&logoColor=white)
 ![IIS](https://img.shields.io/badge/IIS-0078D4?logo=microsoft&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white)
@@ -57,7 +55,7 @@
 
 ## 🏗️ Featured Projects
 
-### 🔹 **Englizm — English Learning Platform** *(Main Project)*
+### 🔹 **Engo — English Learning Platform** *(Main Project)*
 Backend-focused educational system with:
 - ⭐ C# + .NET  
 - ⭐ SQL Server  
@@ -82,9 +80,9 @@ Backend-focused educational system with:
 ---
 
 ## 📫 Contact Me
-- 📩 Email: **your-email-here@gmail.com**  
-- 💬 Telegram: [Click Here](https://t.me/usernameHere)  
-- 💼 LinkedIn: Add your link  
+- 📩 Email: **ahmeddhelmyziady@gmail.com**  
+- 💬 WhatsApp: **[Click Here](https://wa.me/201287249006)**  
+- 💼 LinkedIn: **[Ahmed Helmy](https://www.linkedin.com/in/ahmed-ziady-999a81261/)**  
 
 ---
 
