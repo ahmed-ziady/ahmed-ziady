@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ahmed Helmy  
+# 👋 Hi, I'm Ahmed Ziady  
 ### Software Engineer | Backend Specialist
 
 <!-- Hero GIF -->
@@ -87,7 +87,6 @@ Engo is a **backend-focused educational platform** built to manage **lectures, q
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-ziady&layout=compact&hide_border=true&theme=tokyonight" width="49%" />
 
 </div>
-
 ---
 
 ## 📫 Contact Me
