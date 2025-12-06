@@ -77,14 +77,7 @@ Engo is a **backend-focused educational platform** built to manage **lectures, q
 - GitHub: [Engo Backend Repo](https://github.com/ahmed-ziady/Engo.git)  
 - Android App: [Google Play Store](https://play.google.com/store/apps/details?id=com.mrengo.master.app)
 
----
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahmed-ziady&show_icons=true&hide_border=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-ziady&layout=compact&hide_border=true&theme=tokyonight" width="48%" />
-
----
 
 ## 📫 Contact Me
 - 📩 Email: **ahmeddhelmyziady@gmail.com**  
