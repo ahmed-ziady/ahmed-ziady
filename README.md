@@ -58,9 +58,7 @@
 
 ### 🔹 **Engo — English Learning Platform** *(Backend System)*
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmed-ziady/Engo/main/images/engo_preview.png" width="70%" alt="Engo Preview" />
-</p>
+
 
 **Project Overview:**  
 Engo is a **backend-focused educational platform** built to manage **lectures, quizzes, student progress, notifications, and secure authentication**. It leverages modern backend practices for **scalability, maintainability, and performance**.
